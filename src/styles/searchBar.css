@@ -1,7 +1,10 @@
 .search_bar {
-  margin-left: auto;
-  margin-right: auto;
+  float: left;
+  margin-left: 40%;
+  margin-top: 1.5em;
 }
-#search_button {
-  background: blue;
+
+.bootstrap_button {
+  display: inline-block;
 }
+
