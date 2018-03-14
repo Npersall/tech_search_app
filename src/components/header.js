@@ -8,7 +8,6 @@ export default class Header extends Component {
       <div className="header">
         <div className="header_title">Tech Search</div>
         <SearchBar />
-        <img className="header-image" src={require('../images/ram-modules5.jpg')} />
       </div>
     );
   }
